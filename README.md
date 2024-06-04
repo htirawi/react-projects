@@ -13,14 +13,16 @@ Welcome to the **React Projects** repository! This collection serves as a compre
 ## Projects Included
 
 1. **Birthday-Buddy**: A simple yet powerful birthday application to check firneds birthdays.
-1. **Tours**: A simple Tour application to check a place to go to a tour.
-1. **Reviews**: A simple Review application to check reviews for people.
+2. **Tours**: A simple Tour application to check a place to go to a tour.
+3. **Reviews**: A simple Review application to check reviews for people.
+4. **Questions**: A simple Questions application.
 
 ## Figma URL
 
 [Birthday Buddy](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
 [Tours](https://www.figma.com/file/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=0%3A1&t=wiRXOlTLN5ehekYI-1)
 [Reviews](https://www.figma.com/file/e8L2QiR4GVTa5cGuRpXtk3/Reviews?node-id=0%3A1&t=gcCYcePiKxnkJ9kH-1)
+[Questions](https://www.figma.com/file/TAwJ3kWOqkw0o8UVtAMOHO/Accordion?node-id=0%3A1&t=1YEti8xBykw69tBH-1)
 
 ## Getting Started
 
