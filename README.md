@@ -16,6 +16,7 @@ Welcome to the **React Projects** repository! This collection serves as a compre
 2. **Tours**: A simple Tour application to check a place to go to a tour.
 3. **Reviews**: A simple Review application to check reviews for people.
 4. **Questions**: A simple Questions application.
+5. **Menu Items**: A simple Menu Items application.
 
 ## Figma URL
 
@@ -23,6 +24,7 @@ Welcome to the **React Projects** repository! This collection serves as a compre
 [Tours](https://www.figma.com/file/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=0%3A1&t=wiRXOlTLN5ehekYI-1)
 [Reviews](https://www.figma.com/file/e8L2QiR4GVTa5cGuRpXtk3/Reviews?node-id=0%3A1&t=gcCYcePiKxnkJ9kH-1)
 [Questions](https://www.figma.com/file/TAwJ3kWOqkw0o8UVtAMOHO/Accordion?node-id=0%3A1&t=1YEti8xBykw69tBH-1)
+[Menu](https://www.figma.com/file/PwlnSJXCuo4qD2o6EJiuj9/Menu?node-id=0%3A1&t=oaKVwYVqc9Oon2Ts-1)
 
 ## Getting Started
 
