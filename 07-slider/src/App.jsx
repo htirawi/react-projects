@@ -1,5 +1,5 @@
-import Carousel from './components/Carousel/Carousel';
-import SlickCarousel from './components/SlickCarousel/SlickCarousel';
+import Carousel from './components/Carousel';
+import SlickCarousel from './components/SlickCarousel';
 
 const App = () => {
   return (
