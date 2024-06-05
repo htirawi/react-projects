@@ -18,6 +18,7 @@ Welcome to the **React Projects** repository! This collection serves as a compre
 4. **Questions**: A simple Questions application.
 5. **Menu Items**: A simple Menu Items application.
 6. **Tabs**: A simple Tabs application.
+7. **Slider**: A simple Slider application.
 
 ## Figma URL
 
@@ -27,6 +28,7 @@ Welcome to the **React Projects** repository! This collection serves as a compre
 [Questions](https://www.figma.com/file/TAwJ3kWOqkw0o8UVtAMOHO/Accordion?node-id=0%3A1&t=1YEti8xBykw69tBH-1)
 [Menu](https://www.figma.com/file/PwlnSJXCuo4qD2o6EJiuj9/Menu?node-id=0%3A1&t=oaKVwYVqc9Oon2Ts-1)
 [Tabs](https://www.figma.com/file/FJC19b9eUWS62HKR8L9Dmn/Tabs?node-id=0%3A1&t=8Rio02EFK1r9ItDW-1)
+[Slider](https://www.figma.com/file/QfMzzThSYmgabSvn4t8Yfe/Slider?node-id=0%3A1&t=IpsYjMUn3Xj3Hs3N-1)
 
 ## Getting Started
 
