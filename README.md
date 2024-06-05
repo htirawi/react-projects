@@ -17,6 +17,7 @@ Welcome to the **React Projects** repository! This collection serves as a compre
 3. **Reviews**: A simple Review application to check reviews for people.
 4. **Questions**: A simple Questions application.
 5. **Menu Items**: A simple Menu Items application.
+6. **Tabs**: A simple Tabs application.
 
 ## Figma URL
 
@@ -25,6 +26,7 @@ Welcome to the **React Projects** repository! This collection serves as a compre
 [Reviews](https://www.figma.com/file/e8L2QiR4GVTa5cGuRpXtk3/Reviews?node-id=0%3A1&t=gcCYcePiKxnkJ9kH-1)
 [Questions](https://www.figma.com/file/TAwJ3kWOqkw0o8UVtAMOHO/Accordion?node-id=0%3A1&t=1YEti8xBykw69tBH-1)
 [Menu](https://www.figma.com/file/PwlnSJXCuo4qD2o6EJiuj9/Menu?node-id=0%3A1&t=oaKVwYVqc9Oon2Ts-1)
+[Tabs](https://www.figma.com/file/FJC19b9eUWS62HKR8L9Dmn/Tabs?node-id=0%3A1&t=8Rio02EFK1r9ItDW-1)
 
 ## Getting Started
 
